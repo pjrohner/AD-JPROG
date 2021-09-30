@@ -1,0 +1,4 @@
+Dies ist das Original.
+Eine Textdatei mit Inhalt.
+
+Der nun zu Ende ist.

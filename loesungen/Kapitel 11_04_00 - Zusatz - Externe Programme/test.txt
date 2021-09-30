@@ -1,0 +1,5 @@
+Dies ist eine Testdatei mit einem Text als Inhalt.
+
+Und einer weiteren Zeile Text.
+
+Nichts besonderes.

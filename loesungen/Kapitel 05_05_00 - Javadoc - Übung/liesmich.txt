@@ -1,0 +1,4 @@
+
+Javadoc Aufruf (in diesem Projektverzeichnis):
+
+javadoc -public -sourcepath .\src -subpackages de -d .\doc -version -author
